@@ -1,6 +1,4 @@
-# rails-jquery-tokeninput [![Build Status](https://travis-ci.org/exAspArk/rails-jquery-tokeninput.png)](https://travis-ci.org/exAspArk/rails-jquery-tokeninput)
-
-Integrating [Tokeninput](http://loopj.com/jquery-tokeninput/) jQuery plugin version 1.6.1.
+Integrating [Tokeninput](http://loopj.com/jquery-tokeninput/) jQuery plugin version 1.7.0.
 
 ## Installation
 
@@ -51,10 +49,3 @@ It will automatically pass input values to your controller like an array (works 
 
 It also automatically pre populate existed items.
 
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request

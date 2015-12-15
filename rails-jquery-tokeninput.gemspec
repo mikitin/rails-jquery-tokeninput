@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['exaspark@gmail.com']
   spec.description   = %q{rails-jquery-tokeninput project integrates Tokeninput jQuery plugin which allows your users to select multiple items from a predefined list, using autocompletion as they type to find each item}
   spec.summary       = %q{Porting Tokeninput plugin}
-  spec.homepage      = 'https://github.com/exAspArk/rails-jquery-tokeninput'
+  spec.homepage      = 'https://github.com/mikitin/rails-jquery-tokeninput.git'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)
